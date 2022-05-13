@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kinjo-mathias237
+- 👋 Hi, I’m @kinjo237
 - 👀 I’m interested in ethical hacking and penetration testing
 - 🌱 I’m currently learning penetration testing
 - 💞️ I’m looking to collaborate on penetration testing
